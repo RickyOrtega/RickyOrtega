@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickyOrtega
-- 👀 I’m interested in learning everythins about Java Programming
+- 👀 I’m interested in learning everything about Java Programming
 - 🌱 I’m currently learning Java in IntelliJ IDEA
 - 💞️ I’m looking to collaborate on whatever
 - 📫 ortegavitalricky@gmail.com

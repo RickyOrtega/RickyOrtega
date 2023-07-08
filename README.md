@@ -19,7 +19,7 @@
 
 ## Educational:
 * I'm studying Ingeniería de Sistemas y Computación.
-* I studied 3 semesters of Ingeniería de Sistemas at the Universidad de Cartagena.
+* I studied 3 semesters of Ingeniería de Sistemas at Universidad de Cartagena.
 
 ## Learning:
 * Java 17 + React

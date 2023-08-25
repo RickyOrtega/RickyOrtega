@@ -22,7 +22,7 @@
 * I studied 3 semesters of Ingeniería de Sistemas at Universidad de Cartagena.
 
 ## Learning:
-* Java 17 + React
+* Java 17, Spring/Spring Boot, React and Angular
 
 ## Courses:
 I have seen a lot of online courses, some of them thanks to different programs like ONE or MisionTIC.
@@ -44,3 +44,4 @@ I have seen a lot of online courses, some of them thanks to different programs l
 3. [Aprende Programación en Java (de Básico a Avanzado) ](https://www.udemy.com/certificate/UC-4021b171-43ad-46dc-8a00-9948e9446b52/)
 4. [Diseño Web Profesional El Curso Completo, Práctico y desde 0 ](https://www.udemy.com/certificate/UC-57a407ce-59d9-4280-8f10-92796991e409/)
 5. [Git y GitHub Completo Desde Cero ACTUALIZADO](https://www.udemy.com/certificate/UC-30adba0a-2e13-4778-90ea-06e310653c4e/)
+6. [Máster Completo en Java de cero a experto 2023 (+127 Hrs)](https://www.udemy.com/certificate/UC-6814b906-fd11-4e75-b99d-c031db89bb7c/)

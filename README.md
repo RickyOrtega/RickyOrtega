@@ -1,28 +1,30 @@
 # Ricky Ortega
 *Estudiante de Ingeniería de Sistemas y Computación de la Fundación Universitaria Los Libertadores - Sede Cartagena.*
 
+*Desarrollador Python, RPA y Selenium.*
+
 ## About Me
 * Full name: Ricky Rhonaldo Ortega Vital
 * NickName: RROVInDaBank
 * Birthday: 30 - 04 - 1998
-* Age: 25
+* Age: 26
 * Location: Cartagena, Colombia
 * Hobbies: coding and playing COD: Mobile
 
 ## My Favorites:
-* Programming language: Java
+* Programming languages: Python y Java
 * Frontend: Angular
-* Backend: Spring/Spring Boot
+* Backend: Django y Spring/Spring Boot 
 * Prototypes: Figma
 * Ideas: Pinterest
 * Colors: Black, dark blue, not absolute white and not absolute red.
 
 ## Educational:
 * I'm studying Ingeniería de Sistemas y Computación.
-* I studied 3 semesters of Ingeniería de Sistemas at Universidad de Cartagena.
 
 ## Learning:
-* Java 17, Spring/Spring Boot, React and Angular
+* Java 17, Spring/Spring Boot, React and Angular.
+* Python, learning process is continuous.
 
 ## Courses:
 I have seen a lot of online courses, some of them thanks to different programs like ONE or MisionTIC.

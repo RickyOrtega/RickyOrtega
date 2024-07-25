@@ -1,7 +1,7 @@
 # Ricky Ortega
 *Estudiante de Ingeniería de Sistemas y Computación de la Fundación Universitaria Los Libertadores - Sede Cartagena.*
 
-*Desarrollador Python, RPA y Selenium.*
+*Desarrollador Java, Spring, RPA y Selenium.*
 
 ## About Me
 * Full name: Ricky Rhonaldo Ortega Vital

@@ -7,7 +7,7 @@
 * Full name: Ricky Rhonaldo Ortega Vital
 * NickName: RROVInDaBank
 * Birthday: 30 - 04 - 1998
-* Age: 26
+* Age: 27
 * Location: Cartagena, Colombia
 * Hobbies: coding and playing COD: Mobile
 

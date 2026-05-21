@@ -7,23 +7,23 @@
 * Full name: Ricky Rhonaldo Ortega Vital
 * NickName: RROVInDaBank
 * Birthday: 30 - 04 - 1998
-* Age: 27
+* Age: 28
 * Location: Cartagena, Colombia
 * Hobbies: coding and playing COD: Mobile
 
 ## My Favorites:
-* Programming languages: Python y Java
+* Programming languages: Java
 * Frontend: Angular
-* Backend: Django y Spring/Spring Boot 
+* Backend: DSpring/Spring Boot 
 * Prototypes: Figma
 * Ideas: Pinterest
-* Colors: Black, dark blue, not absolute white and not absolute red.
+* Colors: Black
 
 ## Educational:
 * I'm studying Ingeniería de Sistemas y Computación.
 
 ## Learning:
-* Java 17, Spring/Spring Boot, React and Angular.
+* Java 8, Spring/Spring Boot and AWS.
 * Python, learning process is continuous.
 
 ## Courses:
